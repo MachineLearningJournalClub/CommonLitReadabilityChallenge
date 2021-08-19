@@ -1,4 +1,4 @@
-# NLP_60k
+# CommonLit Readability Challenge
 
 Notebooks run based on local path (it should be the github repo one for local runs)
 ### A Baseline? 
